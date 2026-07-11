@@ -106,5 +106,5 @@ A：自动派单，通常 **20 秒内**到账。
 
 - 🏠 一站式 AI 会员代充：**https://ai66.org/?utm_source=github&utm_medium=referral**
 - 💬 ChatGPT/Codex Plus 充值：https://ai66.org/chatgpt.html?utm_source=github&utm_medium=referral
-
+- 📖 图文教程（Google Sites 版）：https://sites.google.com/view/chatgpt-chongzhi-2026
 > 本仓库仅为技术教程整理，与 OpenAI / Anthropic / Google / xAI 无关联关系。如对你有帮助，欢迎 **Star ⭐**。
