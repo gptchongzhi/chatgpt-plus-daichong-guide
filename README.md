@@ -1,6 +1,3 @@
-# chatgpt-plus-daichong-guide
-2026最新 ChatGPT Plus/Pro 代充教程，支持支付宝、微信充值，20秒到账
-
 # 2026 最新 ChatGPT Plus / Pro 代充教程：国内如何充值开通 ChatGPT 会员（支付宝 / 微信）
 
 > ChatGPT 账号怎么注册？如何订购 ChatGPT Plus 会员？现有账号怎么充值 Plus？本文手把手讲清**国内 ChatGPT 代充**的最省心方案——无需海外信用卡，支付宝/微信直付，**20 秒到账**。（含 Codex、Claude、Gemini、Grok 充值指南）
