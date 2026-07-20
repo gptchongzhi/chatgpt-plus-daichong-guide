@@ -1,4 +1,5 @@
 2026 最新 ChatGPT Plus / Pro 代充教程：国内如何充值开通 ChatGPT 会员（支付宝 / 微信）
+
 ChatGPT 账号怎么注册？如何订购 ChatGPT Plus 会员？现有账号怎么充值 Plus？本文手把手讲清国内 ChatGPT 代充的最省心方案——无需海外信用卡，支付宝/微信直付，20 秒到账。（含 Codex、Claude、Gemini、Grok 充值指南）
 
 🕐 最后更新：2026 年 7 月 20 日（价格与流程均为当前实测有效）
