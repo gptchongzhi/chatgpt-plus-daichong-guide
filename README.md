@@ -1,129 +1,87 @@
-# 2026 最新 ChatGPT Plus / Pro 代充教程：国内如何充值开通 ChatGPT 会员（支付宝 / 微信）
+# ChatGPT Plus / Pro 充值步骤、Codex 开通与 2026 防封号排查清单（支付宝 / 微信）
 
-> ChatGPT 账号怎么注册？如何订购 ChatGPT Plus 会员？现有账号怎么充值 Plus？本文手把手讲清**国内 ChatGPT 代充**的最省心方案——无需海外信用卡，支付宝/微信直付，**20 秒到账**。（含 Codex、Claude、Gemini、Grok 充值指南）
+> 想要在国内用支付宝或微信直接给自己的 ChatGPT 账号开通 Plus / Pro100 / Pro200 并使用 Codex 编程助手？本文整理了 **2026 年 11 月实测可用的自助充值流程、已有会员续费注意事项**，以及 **课题组几十号人实测避开的 6 条封号红线**。
 >
-> 🕐 **最后更新：2026 年 7 月 20 日**（价格与流程均为当前实测有效）
+> 🕐 **最后更新：2026 年 11 月 17 日**（同步 11 月 ChatGPT 防封号规范、GPT-6.1 / Codex Pro100-500 额度及 Claude 11/5 风控变化）
 >
-> 📌 持续更新，建议 **Star ⭐ 收藏**，方便随时查阅最新价格与方法。
+> 📌 建议 **Star ⭐ 收藏**，方便随时核对最新价格与排查方法。
 
 ---
 
 ## 目录
 
-- [一、为什么国内无法直接订阅 ChatGPT Plus](#一为什么国内无法直接订阅-chatgpt-plus)
-- [二、国内开通 ChatGPT Plus 的几种方式对比](#二国内开通-chatgpt-plus-的几种方式对比)
-- [三、ChatGPT 代充教程（图文步骤，亲测可用）](#三chatgpt-代充教程图文步骤亲测可用)
-- [四、价格参考（2026）](#四价格参考2026)
-- [五、常见问题 FAQ](#五常见问题-faq)
-- [六、Claude / Gemini / Grok 充值](#六claude--gemini--grok-充值)
-- [更新记录](#更新记录)
+- [一、为什么推荐“卡密开到自己原账号”？](#一为什么推荐卡密开到自己原账号)
+- [二、ChatGPT / Codex 充值 4 步实操与续费排查](#二chatgpt--codex-充值-4-步实操与续费排查)
+- [三、近期 ChatGPT 封号原因与 6 条安全使用规范（实测避坑）](#三近期-chatgpt-封号原因与-6-条安全使用规范实测避坑)
+- [四、2026 年 11 月四大主流 AI 会员参考价对比](#四2026-年-11-月四大主流-ai-会员参考价对比)
+- [五、Claude 11/5 风控说明与 Claude Code CLI 替代方案](#五claude-115-风控说明与-claude-code-cli-替代方案)
+- [六、常见问题 FAQ & 相关入口](#六常见问题-faq--相关入口)
 
 ---
 
-## 一、为什么国内无法直接订阅 ChatGPT Plus
+## 一、为什么推荐“卡密开到自己原账号”？
 
-OpenAI 官方订阅 **ChatGPT Plus（$20/月）** 和 **ChatGPT Pro（$200/月）** 需要满足两个条件：
-
-1. **海外信用卡**（Visa/Mastercard），国内储蓄卡和大部分双币卡会被拒；
-2. **支持地区的网络环境**，IP 与账号注册地需匹配。
-
-这就是为什么很多人搜「**gpt代充**」「**chatgpt充值**」「**ChatGPT Plus 怎么开通**」——绕开信用卡和支付限制。
-
----
-
-## 二、国内开通 ChatGPT Plus 的几种方式对比
-
-| 方式 | 难度 | 风险 | 是否需要信用卡 | 说明 |
+| 开通方式 | 难度 | 账号安全度 | 是否要信用卡 | 核心说明 |
 |---|---|---|---|---|
-| 银行卡（官方直付）| ⭐ 低 | 低 | 需要，仅限境外发行的 Visa / Mastercard / American Express | 国内储蓄卡、银联卡、大部分双币卡会被拒 |
-| 苹果礼品卡充值 | ⭐⭐ 中 | 中（Apple ID 易风控，余额冻结）| 否 | 仅限 App Store 订阅，需海外 Apple ID，汇率偏贵 |
-| 共享 / 拼车账号 | ⭐ 低 | 高（易封、隐私差）| 否 | 不推荐，账号不归你 |
-| **卡密式代充（推荐）** | ⭐ 低 | 低 | 否 | 支付宝/微信付款，充到**你自己的账号**，原生安全 |
-
-> **结论**：对绝大多数人，**卡密式代充**最省心——不用办卡、不用共享账号、20 秒到账，充的是你自己的 ChatGPT 账号。本文以此方式演示。
+| 境外 Visa/Mastercard 直付 | 低 | 高 | 需要 | 国内储蓄卡/大部分双币卡会被拒 |
+| 苹果礼品卡内购 | 中 | 中 | 否 | 需海外 Apple ID，易触发余额或风控 |
+| 共享 / Team 拼车账号 | 低 | **极低** | 否 | 多人共用、无隐私，近期大量封号重灾区 |
+| **正规卡密自助充值（推荐）** | **低** | **高** | **否** | **[Ai66.org](https://ai66.org/chatgpt-plus-chongzhi?utm_source=github&utm_medium=referral)** 支付宝/微信下单，网页自动发货，不碰密码 |
 
 ---
 
-## 三、ChatGPT 代充教程（图文步骤，亲测可用）
+## 二、ChatGPT / Codex 充值 4 步实操与续费排查
 
-> 演示平台：**[Ai66.org](https://ai66.org/chatgpt?utm_source=github&utm_medium=referral)** —— 卡密经 ChatGPT 官方充值页兑换，已为 60000+ 用户开通，支付宝/微信直付，充值失败全额退款。
-
-**第 1 步：准备 ChatGPT 账号**
-没有账号的话，用国内邮箱即可免费注册一个 ChatGPT 账号（无需充值即可注册）。
-
-**第 2 步：在线下单获取卡密**
-打开 **[Ai66.org ChatGPT 充值页](https://ai66.org/chatgpt?utm_source=github&utm_medium=referral)** → 选择套餐（Plus / Pro 5x / Pro 20x）→ 支付宝或微信付款 → 系统**秒级自动发放卡密 + 充值教程**。
-
-**第 3 步：按教程完成充值**
-根据卡密教程在充值页输入卡密，会员**自动充值到你的账号**，通常 **20 秒内到账**，全程无需提供账号密码。
-
-**第 4 步：确认开通**
-打开 ChatGPT 设置，看到 **Plus / Pro** 标识即开通成功，可立即使用 GPT-5.5、Codex、GPT Image 2 等高级功能。
-
-✅ 全程无需海外信用卡、无需共享账号、不触碰密码，账号原生安全。
+1. **先查账号登录状态**：确认自己的 ChatGPT 邮箱可正常登录；若已有 Plus 未到期，不要默认剩余天数能叠加，先看 **[Plus 续费核对清单](https://ai66.org/chatgpt-plus-xufei?utm_source=github&utm_medium=referral)**。
+2. **下单获取卡密与教程**：前往 **[ChatGPT Plus 充值与购买](https://ai66.org/chatgpt-plus-chongzhi?utm_source=github&utm_medium=referral)** 选择 Plus（¥178 起）或 Pro 档位（**[ChatGPT / Codex 套餐页](https://ai66.org/chatgpt?utm_source=github&utm_medium=referral)**），付款后网页自动显示卡密与图文教程。
+3. **24 小时内完成兑换（约 20 秒到账）**：按教程在官方充值页兑换，**卡密有时效性，收到后 24 小时内需兑换**。
+4. **Codex 权益核对**：开通后用同一账号 OAuth 登录 Codex CLI / IDE 即可。如遇到权益显示不符或手机号验证提示，可按 **[Codex 登录与权益排查清单](https://ai66.org/codex-login-check?utm_source=github&utm_medium=referral)** 排查。
 
 ---
 
-## 四、价格参考（2026）
+## 三、近期 ChatGPT 封号原因与 6 条安全使用规范（实测避坑）
 
-| 套餐 | 价格 | 适合 |
-|---|---|---|
-| ChatGPT/Codex **Plus** | ¥178 起/月 | 大部分用户，GPT-5.5 + Codex + 生图 |
-| ChatGPT **Pro 5x** | ¥880 起/月 | 重度使用，5 倍配额 |
-| ChatGPT **Pro 20x** | ¥1680 起/月 | 专业/团队，20 倍配额 |
+近期网上流传“ChatGPT 开始大量封号”，但我们课题组几十号人高频使用至今均未遇到。结合实测经验，触发封号主要集中在这 6 点：
 
-> 满 ¥200 可开发票 · 充值不成功全额退款 · [查看最新价格 →](https://ai66.org/chatgpt?utm_source=github&utm_medium=referral)（2026 年 7 月核对无误）
+1. **技术漏洞充值、低价 Team 账号**：这是近期大量网友中招的核心原因（通过 **[Ai66.org](https://ai66.org/gpt-daichong?utm_source=github&utm_medium=referral)** 正规卡密开到自己账号可避开）。
+2. **禁止反代！！！（例如 Sub2API）**：把订阅拿去做接口反代是最常见封号原因之一。
+3. **不要与他人共用账户**：多人多地共享极易触发异常登录审计。
+4. **不要生成涉政、色情、暴力、侵权等违法违规内容**。
+5. **Pro 用户不要出售官方送的免费 API 额度**：对方往往拿去跑反代/蒸馏，连带主号被封。
+6. **尽可能固定一个 IP 地区使用**：不要短时间内频繁跨国家/地区切换节点。
 
----
-
-## 五、常见问题 FAQ
-
-**Q：代充会不会导致封号？**
-A：卡密在 ChatGPT 官方充值页兑换，等同于你自行订阅，无异常行为，账号原生安全。会出问题的是黑卡充值和多人共享账号，避开即可。
-
-**Q：需要提供账号密码吗？**
-A：不需要。卡密式充值只需输入卡密，不触碰你的密码。**凡是索要账号密码的"代充"都不要碰。**
-
-**Q：充值失败怎么办？**
-A：选择支持「失败全额退款」的平台（如 [Ai66.org](https://ai66.org/?utm_source=github&utm_medium=referral)），并有客服在线处理。失败常见原因：卡密复制带了首尾空格、登录了错误的账号。
-
-**Q：支持哪些模型？**
-A：开通 Plus 后默认 GPT-5.5 旗舰模型，Pro 套餐额外解锁 Pro 推理强化版与更高配额。
-
-**Q：Codex 编程助手怎么开通？**
-A：Codex 包含在 ChatGPT Plus / Pro 会员内，无需单独订阅——按本文教程开通 Plus 后，即可直接使用 Codex 写代码、改 Bug、跑任务。
-
-**Q：ChatGPT Plus 官方才 $20/月，为什么代充价格是 ¥178 起？**
-A：$20 按汇率约 ¥145，代充价格里高出的部分是海外支付通道的成本，属于正常范围；但如果看到明显低于市场价（如 ¥100 以下）的"低价充值"，大概率是黑卡，充了容易连累账号，别贪便宜。
-
-**Q：多久到账？**
-A：自动派单，通常 **20 秒内**到账。
+> **结论**：只要避开上述 6 条问题正常使用，实际封号概率远远小于 1%。
 
 ---
 
-## 六、Claude / Gemini / Grok 充值
+## 四、2026 年 11 月四大主流 AI 会员参考价对比
 
-不止 ChatGPT，国内同样可代充其他主流 AI 会员（支付墙是同一堵，解法也相同）：
+| 平台 | 档位 | 参考价 | 核心权益 |
+|---|---|---|---|
+| **ChatGPT / Codex** | Plus / Pro100 / Pro200 / Pro500 | ¥178 / ¥880 / ¥1680 / ¥4080 | GPT-6.1 Sol / Terra + Images 2.6；Pro 分别含 **10× / 20× / 50× Pro 额度** |
+| **Claude（成品号）** | Pro / Max / Ultra | ¥400 / **实时报价** | 美国实体卡一卡一充独立成品号（带初始邮箱）；Max / Ultra 含 **Fable 5.2** + 5×/20× |
+| **Gemini** | Pro / Ultra 100刀版 / Ultra 旗舰版 | ¥178起 / ¥880 / ¥1800 | Gemini 4（Carbon / Argon / Hydrogen）+ Nano Banana 2.1 + Veo 3.1 |
+| **xAI Grok** | Premium / Super / Ultra | ¥228 / ¥880 / ¥1680 | Grok 4.7 + Grok Imagine + Grok Bot + Cursor + X（4×/15×/50× 共享周额度） |
 
-- **Claude Pro / Max**（Anthropic，Fable 5 + Claude Code）→ [Claude 充值](https://ai66.org/claude?utm_source=github&utm_medium=referral)
-- **Gemini Pro / Ultra**（Google，Gemini 3.1 + NotebookLM）→ [Gemini 充值](https://ai66.org/gemini?utm_source=github&utm_medium=referral)
-- **Grok / SuperGrok**（xAI，Grok 4.5 + Imagine 视频）→ [Grok 充值](https://ai66.org/grok?utm_source=github&utm_medium=referral)
-
----
-
-### 🔗 相关链接
-
-- 🏠 一站式 AI 会员代充：**https://ai66.org/?utm_source=github&utm_medium=referral**
-- 💬 ChatGPT/Codex Plus 充值：https://ai66.org/chatgpt?utm_source=github&utm_medium=referral
-- 📚 全部充值教程合集：https://ai66.org/jiaocheng?utm_source=github&utm_medium=referral
-- 📖 图文教程（Google Sites 版）：https://sites.google.com/view/chatgpt-chongzhi-2026
+> 完整对比与实时说明见：**[2026 AI 会员价格总表](https://ai66.org/ai-huiyuan-jiage?utm_source=github&utm_medium=referral)** · 消费可申请开具增值税发票 · 充值不成功全额退款。
 
 ---
 
-### 更新记录
+## 五、Claude 11/5 风控说明与 Claude Code CLI 替代方案
 
-- **2026-07-20**：核对全部价格与流程；新增 FAQ（Codex 开通方式、代充价格构成说明）；更新 Claude / Grok 最新模型信息（Fable 5 / Grok 4.5）
-- **2026-07-15**：更新模型版本信息与充值链接
-- **2026-07-09**：仓库首发，含四种开通方式对比、图文教程、价格表与 FAQ
+- 受 **11 月 5 日风控加剧**影响，iOS 卡密充值 Claude 必出 KYC 甚至不到账，目前已暂停 iOS 自助充值。
+- 现主推 **美国实体卡一卡一充独立成品号**（充值不弹 KYC，门户 KYC 概率极低），详见 **[Claude 成品号与实时报价页](https://ai66.org/claude?utm_source=github&utm_medium=referral)** 与 **[Claude Code CLI 实战指南](https://ai66.org/blog/claude-code-cli-zhinan?utm_source=github&utm_medium=referral)**。
 
-> 本仓库仅为技术教程整理，与 OpenAI / Anthropic / Google / xAI 无关联关系。如对你有帮助，欢迎 **Star ⭐**。
+---
+
+## 六、常见问题 FAQ & 相关入口
+
+- **Q：消费后能开发票吗？** A：可申请开具增值税发票，下单后联系客服微信（`Jumper9705` / 备用 `Jumper97051`）提交开票信息即可。
+- **Q：如果充值失败怎么办？** A：正规渠道支持充值不成功全额退款，联系客服核查订单号即可。
+
+🔗 **快速直达**：
+- [Ai66.org 首页（ChatGPT / GPT 代充）](https://ai66.org/?utm_source=github&utm_medium=referral)
+- [ChatGPT Plus 充值与购买](https://ai66.org/chatgpt-plus-chongzhi?utm_source=github&utm_medium=referral)
+- [ChatGPT / Codex 套餐与 Pro 额度](https://ai66.org/chatgpt?utm_source=github&utm_medium=referral)
+- [Codex 登录与权益排查清单](https://ai66.org/codex-login-check?utm_source=github&utm_medium=referral)
+- [全部 AI 充值与排障攻略](https://ai66.org/blog/?utm_source=github&utm_medium=referral)
